@@ -1,0 +1,13 @@
+Name,Gender,Born,Died,Parent,Legitimacy
+Henry Tudor VII,Male,1457,1509,,Legitimate
+Arthur Tudor,Male,1486,1502,Henry Tudor VII,Legitimate
+Mary Tudor,Female,1496,1533,Henry Tudor VII,Legitimate
+Margaret Tudor,Female,1489,1541,Henry Tudor VII,Legitimate
+James V,Male,1512,1542,Margaret Tudor,Legitimate
+Margaret Douglas,Female,1515,1578,Margaret Tudor,Legitimate
+Henry Tudor VIII,Male,1491,1547,Henry Tudor VII,Legitimate
+Henry Fitzroy,Male,1519,1536,Henry Tudor VIII,Illegitimate
+Thomas Stukeley,Male,1520,1578,Henry Tudor VIII,Illegitimate
+Catherine Carey,Female,1524,1569,Henry Tudor VIII,Illegitimate
+Elizabeth I,Female,1533,1603,Henry Tudor VIII,Legitimate
+Edward VI,Male,1537,1553,Henry Tudor VIII,Legitimate
