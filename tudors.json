@@ -1,0 +1,12 @@
+{"Name": "Henry Tudor VII","Gender":"Male","Born":1457,"Died":1509,"Parent":null,"Legitimacy": "Legitimate"}
+{"Name": "Arthur Tudor","Gender":"Male","Born":1486,"Died":1502,"Parent":"Henry Tudor VII","Legitimacy": "Legitimate"}
+{"Name": "Mary Tudor","Gender":"Female","Born":1496,"Died":1533,"Parent":"Henry Tudor VII","Legitimacy": "Legitimate"}
+{"Name": "Margaret Tudor","Gender":"Female","Born":1489,"Died":1541,"Parent":"Henry Tudor VII","Legitimacy": "Legitimate"}
+{"Name": "James V","Gender":"Male","Born":1512,"Died":1542,"Parent":"Margaret Tudor","Legitimacy": "Legitimate"}
+{"Name": "Margaret Douglas","Gender":"Female","Born":1515,"Died":1578,"Parent":"Margaret Tudor","Legitimacy": "Legitimate"}
+{"Name": "Henry Tudor VIII","Gender":"Male","Born":1491,"Died":1547,"Parent":"Henry Tudor VII","Legitimacy": "Legitimate"}
+{"Name": "Henry Fitzroy","Gender":"Male","Born":1519,"Died":1536,"Parent":"Henry Tudor VIII","Legitimacy": "Illegitimate"}
+{"Name": "Thomas Stukeley","Gender":"Male","Born":1520,"Died":1578,"Parent":"Henry Tudor VIII","Legitimacy": "Illegitimate"}
+{"Name": "Catherine Carey","Gender":"Female","Born":1524,"Died":1569,"Parent":"Henry Tudor VIII","Legitimacy": "Illegitimate"}
+{"Name": "Elizabeth I","Gender":"Female","Born":1533,"Died":1603,"Parent":"Henry Tudor VIII","Legitimacy": "Legitimate"}
+{"Name": "Edward VI","Gender":"Male","Born":1537,"Died":1553,"Parent":"Henry Tudor VIII","Legitimacy": "Legitimate"}
